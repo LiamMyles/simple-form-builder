@@ -1,5 +1,6 @@
 {
   "name": "goji",
+  "homepage": "https://liammyles.github.io/simple-form-builder/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

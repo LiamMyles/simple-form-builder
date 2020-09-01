@@ -1,3 +1,9 @@
+# Simple Form Builder
+
+Simple form builder, inspired by google forms.
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
